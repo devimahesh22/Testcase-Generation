@@ -22,8 +22,11 @@ The system is designed for software testing teams, QA engineers, and automation 
 
 .
 ├── testplangeneration.py   # Model training, fine-tuning, inference
+
 ├── connection.py           # FastAPI service
+
 ├── dataset.json            # Training dataset (instruction-response format)
+
 ├── qa-assistant-lora/      # Saved LoRA weights
 
 
